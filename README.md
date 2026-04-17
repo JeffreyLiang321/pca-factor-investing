@@ -4,7 +4,7 @@ Built a PCA-based factor model on U.S. equities and evaluated a long–short alp
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project applies Principal Component Analysis (PCA) to a large panel of U.S. stock returns to:
 
