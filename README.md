@@ -20,6 +20,12 @@ This project applies Principal Component Analysis (PCA) to a large panel of U.S.
 * ~6,000 trading days
 * Daily returns
 
+Due to size constraints, the dataset is not included in this repository.
+
+To reproduce results:
+- Download stock price data (e.g. from Yahoo Finance)
+- Run preprocessing steps in the notebook to generate returns
+
 ---
 
 ## Methodology
